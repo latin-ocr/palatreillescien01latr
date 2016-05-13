@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./palatreillescien01latr_0342.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2712 658 2724 715">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2712 658 2724 715">
+     <span class='ocr_line' id='line_1_1' title="bbox 2712 658 2724 715; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 2712 710 2716 715; x_wconf 54' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2712 658 2724 687; x_wconf 54' lang='grc' dir='ltr'>ἓν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2712 634 2741 712">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2712 586 2743 712">
+     <span class='ocr_line' id='line_1_2' title="bbox 2712 634 2741 712; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 2712 634 2741 712; x_wconf 32' lang='grc' dir='ltr'>ὼ........,,.μ..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2903 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2903 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2903 4368; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2903 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

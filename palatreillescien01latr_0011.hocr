@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./palatreillescien01latr_0011.png"; bbox 0 0 1666 2866; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 526 323 952 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 526 323 952 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 526 323 952 380; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 526 323 952 380; x_wconf 83' lang='lat' dir='ltr'>DOMINO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 354 479 1129 556">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 354 479 1129 556">
+     <span class='ocr_line' id='line_1_2' title="bbox 354 479 1129 556; baseline -0.006 0"><span class='ocrx_word' id='word_1_2' title='bbox 354 479 1129 556; x_wconf 68' lang='lat' dir='ltr'><strong>LAMARCK</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 107 771 1374 812">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 107 771 1374 812">
+     <span class='ocr_line' id='line_1_3' title="bbox 107 771 1374 812; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 107 772 334 812; x_wconf 83' lang='lat' dir='ltr'>MUSAEO</span> <span class='ocrx_word' id='word_1_4' title='bbox 360 771 680 810; x_wconf 84' lang='lat' dir='ltr'><strong>HISTORIAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 704 773 1074 811; x_wconf 80' lang='lat' dir='ltr'><strong>NATURALIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1102 771 1374 811; x_wconf 88' lang='lat' dir='ltr'>GALLICO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 322 905 1159 930">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 322 905 1159 930">
+     <span class='ocr_line' id='line_1_4' title="bbox 322 905 1159 930; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 322 905 627 930; x_wconf 79' lang='lat' dir='ltr'>ANIMALIUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 658 905 1159 930; x_wconf 76' lang='lat' dir='ltr'><strong>INVERTEBRATORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 268 1022 1218 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 268 1022 1218 1055">
+     <span class='ocr_line' id='line_1_5' title="bbox 268 1022 1218 1055; baseline -0.001 -1"><span class='ocrx_word' id='word_1_9' title='bbox 268 1022 687 1055; x_wconf 85' lang='lat' dir='ltr'><strong>DOCTRINAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 740 1022 1218 1055; x_wconf 87' lang='lat' dir='ltr'>PROFESSORI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 623 1177 851 1198">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 623 1177 851 1198">
+     <span class='ocr_line' id='line_1_6' title="bbox 623 1177 851 1198; baseline -0.004 0"><span class='ocrx_word' id='word_1_11' title='bbox 623 1177 713 1198; x_wconf 66' lang='lat' dir='ltr'><strong>Nnc</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 750 1177 851 1198; x_wconf 77' lang='lat' dir='ltr'><strong>NON</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 229 1274 1251 1308">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 229 1274 1251 1308">
+     <span class='ocr_line' id='line_1_7' title="bbox 229 1274 1251 1308; baseline 0.002 -3"><span class='ocrx_word' id='word_1_13' title='bbox 229 1274 777 1308; x_wconf 82' lang='lat' dir='ltr'><strong>SCIENTIARUM</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 822 1276 906 1307; x_wconf 81' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 951 1275 1251 1308; x_wconf 85' lang='lat' dir='ltr'><strong>ARTIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 162 1397 1323 1449">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 162 1397 1323 1449">
+     <span class='ocr_line' id='line_1_8' title="bbox 162 1397 1323 1449; baseline 0.004 -15"><span class='ocrx_word' id='word_1_16' title='bbox 162 1397 564 1436; x_wconf 86' lang='lat' dir='ltr'><strong>INSTITUTI</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 609 1398 930 1437; x_wconf 83' lang='lat' dir='ltr'><strong>GALLICI</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 973 1398 1213 1449; x_wconf 87' lang='lat' dir='ltr'>SOCIO,</span> <span class='ocrx_word' id='word_1_19' title='bbox 1250 1408 1323 1439; x_wconf 87' lang='lat' dir='ltr'>etc.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 283 2056 1374 2134">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 283 2056 1374 2134">
+     <span class='ocr_line' id='line_1_9' title="bbox 283 2056 1374 2134; baseline 0.005 -24"><span class='ocrx_word' id='word_1_20' title='bbox 283 2056 681 2113; x_wconf 78' lang='lat' dir='ltr'>Testimonium</span> <span class='ocrx_word' id='word_1_21' title='bbox 719 2058 935 2114; x_wconf 84' lang='lat' dir='ltr'>honoris</span> <span class='ocrx_word' id='word_1_22' title='bbox 969 2103 985 2127; x_wconf 84' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_23' title='bbox 1039 2061 1374 2134; x_wconf 78' lang='lat' dir='ltr'>gratitudinis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 364 2167 591 2238">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 364 2167 591 2238">
+     <span class='ocr_line' id='line_1_10' title="bbox 364 2167 591 2238; baseline 0.013 -21"><span class='ocrx_word' id='word_1_24' title='bbox 364 2167 591 2238; x_wconf 76' lang='lat' dir='ltr'>pignus.&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 748 2411 1318 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 748 2411 1318 2453">
+     <span class='ocr_line' id='line_1_11' title="bbox 748 2411 1318 2453; baseline 0 -3"><span class='ocrx_word' id='word_1_25' title='bbox 748 2411 794 2450; x_wconf 89' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_26' title='bbox 824 2411 881 2452; x_wconf 85' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_27' title='bbox 917 2411 1318 2453; x_wconf 63' lang='lat' dir='ltr'><strong>LATREILLE,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
